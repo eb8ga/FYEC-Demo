@@ -1,5 +1,4 @@
-# Set-Point Monitor: a jigsaw build
-
+# Temperature and Humidity Device - Jigsaw Build
 A small device that reads temperature and humidity, compares each to a good range, and shows LOW, OK or HIGH on a screen and a color light.
 
 It is built by a team of five roles. Each role owns one part, teaches it to the others, and the team assembles one working device. With six people, two share Microcontroller + Code.
