@@ -84,9 +84,3 @@ Switching between M2.5 and M3 means changing the tip. Turn the iron off and let 
 - [VLMP Pro assembly video](https://youtu.be/LYoN4mEtIiY)
 - [Handskit 927 soldering iron](https://www.handskit.com/products/high-power-adjustable-constant-temperature-soldering-iron-928)
 - [CNC Kitchen: tips and tricks for heat-set inserts](https://www.cnckitchen.com/blog/tipps-amp-tricks-fr-gewindeeinstze-im-3d-druck-3awey)
-
-## Trained
-
-| Name | Trained by | Date |
-| --- | --- | --- |
-| | | |
