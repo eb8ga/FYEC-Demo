@@ -15,18 +15,22 @@ You do not need to install anything. The board is already set up.
 1. **Prepare.** Read your role card, your reference guide, and your folder in [`subsystems/`](subsystems/). Write the 2 statements other teams most need to know from you on the [team worksheet](docs/team-worksheet.md).
 2. **Share.** Human Interaction opens: what environment are we trying to measure? The room picks one application. Then each team shares its 2 statements.
 3. **Ask.** Each team asks one question to one other team.
-4. **Build** in order, program the set points for your application, then test.
+4. **Build** it together like a puzzle: there is no set order. Program the set points for your application, then test.
 5. **Reflect.** The group picks a reflection question and talks it through.
 6. **Exit ticket.** Write your own answer to that question, on the back of the worksheet.
 
-| Step | Who | What |
-| --- | --- | --- |
-| 1 | Sensor + Microcontroller + Code | Plug the sensor into the STEMMA QT port. |
-| 2 | Power + Microcontroller + Code | Wire the charger, switch and QT Py into the power board. Switch OFF. |
-| 3 | Human Interaction | Chain the OLED from the sensor's free port. Seat the light pipes. |
-| 4 | Mechanical | Seat every part in the case. Lid stays off. |
-| 5 | Microcontroller + Code, with everyone | Power on, program your application's set points, test. |
-| 6 | Mechanical | Close the case once the test passes. |
+| Who | Build task |
+| --- | --- |
+| Sensor + Microcontroller + Code | Sensor cable into the microcontroller's STEMMA QT port. |
+| Power | Battery, charger and switch into the power board. |
+| Microcontroller + Code | The QT Py's red and black wires into the 5V and GND blocks. Program and test once everything is connected. |
+| Human Interaction | OLED from the sensor's free port. Light pipes in. |
+| Mechanical | Seat every part in the case. Lid stays off until the test passes. |
+
+Two rules:
+
+- Switch OFF until everything is connected.
+- The lid goes on last, after the test passes.
 
 ### What the light means
 
