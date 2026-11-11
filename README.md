@@ -12,7 +12,7 @@ Repository: [github.com/eb8ga/FYEC-Demo](https://github.com/eb8ga/FYEC-Demo/). Q
 
 You do not need to install anything. The board is already set up.
 
-1. **Prepare.** Read your role card, your reference guide, and your folder in [`subsystems/`](subsystems/). Write the 2 statements other teams most need to know from you on the [team worksheet](docs/team-worksheet.md).
+1. **Prepare.** Read your role card, your reference guide, and your folder in [`subsystems/`](subsystems/). Note one fascinating thing you learned. Write the 2 statements other teams most need to know from you on the [team worksheet](docs/team-worksheet.md).
 2. **Share.** Human Interaction opens: what environment are we trying to measure? The room picks one application. Then each team shares its 2 statements.
 3. **Ask.** Each team asks one question to one other team.
 4. **Build** it together like a puzzle: there is no set order. Program the set points for your application, then test.
