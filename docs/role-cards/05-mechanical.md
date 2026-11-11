@@ -22,9 +22,9 @@
 - **You give:** A fixed place for every part.
 - **You need:** Sensor at the vent (Sensor). The shape, the window and the light pipe holes from Human Interaction. USB-C port at its opening (Microcontroller + Code). Battery in the bay (Power).
 
-## Your build task (Step 4 and 6)
+## Your build task
 
-Step 4: seat each part in the case, route the cables, check nothing is pinched. Leave the lid off. Step 6: close the case after the test passes.
+Seat each part in the case, route the cables, check nothing is pinched. Leave the lid off until the test passes, then close the case.
 
 ## If something goes wrong
 

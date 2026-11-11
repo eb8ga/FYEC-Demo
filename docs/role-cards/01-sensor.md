@@ -22,7 +22,7 @@
 - **You give:** Temperature (°C) and humidity (%) to Microcontroller + Code.
 - **You need:** Power and the I2C bus from Microcontroller + Code, through one cable. A spot at the vent from Mechanical. Tell Human Interaction which port is free.
 
-## Your build task (Step 1)
+## Your build task
 
 With Microcontroller + Code: plug one end of a STEMMA QT cable into the sensor and the other end into the microcontroller's STEMMA QT port. The plug fits one way only. Do not force it.
 

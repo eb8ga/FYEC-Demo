@@ -25,7 +25,7 @@ What environment are you trying to measure? Who uses this device, where, and wha
 - **You give:** The requirements: what people need to see, what data matters, where the device lives. Then the screen and lights themselves.
 - **You need:** The sensor's free port from Sensor. Microcontroller + Code to draw the screen and keep the data. Mechanical to build the shape, window and light pipe holes.
 
-## Your build task (Step 3)
+## Your build task
 
 Plug a STEMMA QT cable from the sensor's free port into the OLED. Seat the OLED behind the display window. Fit the light pipes into their holes over the LEDs.
 

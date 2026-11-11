@@ -23,9 +23,9 @@
 - **You give:** Power and the I2C bus to Sensor and Human Interaction. The LOW / OK / HIGH decision and the color.
 - **You need:** The 5V line at the 5V block and ground at the GND block, from Power. Readings from Sensor. What to show and what data to keep, from Human Interaction.
 
-## Your build task (Step 1, 2 and 5)
+## Your build task
 
-Step 1: take the sensor cable into the STEMMA QT port. Step 2: red wire from your 5V pin into the 5V block, black from your GND pin into the GND block. Step 5: plug in USB-C. Set the four set points for the application your team chose, and save. Then breathe on the sensor and watch the light.
+Take the sensor cable into the STEMMA QT port. Red wire from your 5V pin into the 5V block, black from your GND pin into the GND block. Once everything is connected, plug in USB-C. Set the four set points for the application your team chose, and save. Then breathe on the sensor and watch the light.
 
 ## If something goes wrong
 

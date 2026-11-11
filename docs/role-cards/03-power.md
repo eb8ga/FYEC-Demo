@@ -27,7 +27,7 @@ Charge at 100 mA or 500 mA (the charger's rate jumper)? What does each cost in c
 - **You give:** The 5V line at the 5V block and ground at the GND block, ready for Microcontroller + Code.
 - **You need:** Leave one free screw in the 5V block and one in the GND block for the QT Py's red and black wires.
 
-## Your build task (Step 2)
+## Your build task
 
 Switch OFF. Battery into the charger's JST port. Then from the charger: yellow BAT into the BAT block, red 5V into the 5V block, black GND into the GND block. Switch wires into the SW block. Tighten and tug each wire.
 
